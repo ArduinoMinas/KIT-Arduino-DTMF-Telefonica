@@ -1,4 +1,4 @@
-[KIT-Arduino-DTMF](http://arduinominas.github.io/KIT-Arduino-DTMF-Telefonica/)
+[KIT Arduino DTMF](http://arduinominas.github.io/KIT-Arduino-DTMF-Telefonica/)
 ================
 
 Kit de estudos de sinalização DTMF e Controle de Linhas Telefônicas Fixas e Celulares.
