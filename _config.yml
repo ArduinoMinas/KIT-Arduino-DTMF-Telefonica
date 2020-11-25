@@ -3,5 +3,3 @@ theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
  
-feed:
-  path: atom.xml
